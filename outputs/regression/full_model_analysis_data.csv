@@ -1,0 +1,64 @@
+iso3,country,year,log_obs_expected,anc_disruption,anc_disruption_num,delivery_disruption,delivery_disruption_num,pnc_disruption,pnc_disruption_num,baseline_mmr_2019,log_baseline_mmr,anc4_pre2020_pct,sba_pre2020_pct
+AGO,Angola,2022,0.0475546025483558,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,201.6,5.30628553619721,61.4,49.6
+BEN,Benin,2021,0.0155825287660621,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,572.1,6.34931380127448,52.1,78.1
+BWA,Botswana,2021,1.22844133336185,More than 50%,3,More than 50%,3,26-50%,2,100.1,4.60616968632117,73.3,99.8
+BWA,Botswana,2022,1.09334590571898,Increase of 5% or more,0,Increase of 5% or more,0,Increase of 5% or more,0,100.1,4.60616968632117,73.3,99.8
+BFA,Burkina Faso,2022,0.264604639479378,5-25%,1,Less than 5% (including 0%),0,5-25%,1,274.2,5.61385776712821,47.2,79.8
+CPV,Cabo Verde,2021,0.407107464442291,5-25%,1,5-25%,1,5-25%,1,40.66,3.7052448082002,85.6,97.3
+CPV,Cabo Verde,2022,0.144693990532658,5-25%,1,5-25%,1,5-25%,1,40.66,3.7052448082002,85.6,97.3
+CAF,Central African Republic,2021,-0.684845714551787,5-25%,1,5-25%,1,5-25%,1,1650,7.40853056689463,41.4,40.3
+TCD,Chad,2021,-0.00513993406770996,5-25%,1,5-25%,1,26-50%,2,957.8,6.86463898790851,31,47.2
+TCD,Chad,2022,-0.0629017824416164,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,957.8,6.86463898790851,31,47.2
+COM,Comoros,2021,0.165160521506175,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,202.4,5.31024593741331,48.9,82.2
+COM,Comoros,2022,0.0674892106807367,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,202.4,5.31024593741331,48.9,82.2
+CIV,Cote d'Ivoire,2022,-0.0411469532557988,26-50%,2,Less than 5% (including 0%),0,More than 50%,3,429.5,6.06262174142431,51.3,73.6
+COD,Democratic Republic of the Congo,2021,0.0658024658783563,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,492.9,6.20030631371133,42.9,85.2
+COD,Democratic Republic of the Congo,2022,-0.0159839227297728,Increase of 5% or more,0,Increase of 5% or more,0,Increase of 5% or more,0,492.9,6.20030631371133,42.9,85.2
+SWZ,Eswatini,2021,0.96352730071382,5-25%,1,5-25%,1,5-25%,1,96.24,4.56684507166642,76.1,88.3
+ETH,Ethiopia,2021,0.093000165290716,5-25%,1,Less than 5% (including 0%),0,Less than 5% (including 0%),0,268.8,5.59396760864899,43,49.8
+ETH,Ethiopia,2022,0.00221526741998874,Less than 5% (including 0%),0,Increase of 5% or more,0,Increase of 5% or more,0,268.8,5.59396760864899,43,49.8
+GAB,Gabon,2022,0.310467238237822,5-25%,1,5-25%,1,26-50%,2,179.4,5.1896179496247,77.6,89.3
+GMB,Gambia,2021,0.0938021264333175,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,422.1,6.04524225278845,75.6,82.7
+GHA,Ghana,2021,0.0418875110038151,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,259.7,5.5595271186687,89.9,78.9
+GHA,Ghana,2022,-0.0259112839187542,Increase of 5% or more,0,Increase of 5% or more,0,Increase of 5% or more,0,259.7,5.5595271186687,89.9,78.9
+GIN,Guinea,2021,0.0273331463137879,5-25%,1,5-25%,1,5-25%,1,548.1,6.30645775205207,35.3,55.3
+GIN,Guinea,2022,-0.00211383734585853,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,548.1,6.30645775205207,35.3,55.3
+GNB,Guinea-Bissau,2022,-0.0291480478142338,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,597.5,6.39275428380567,80.7,53.8
+KEN,Kenya,2021,-0.0110321545877767,Less than 5% (including 0%),0,5-25%,1,5-25%,1,414.9,6.02803752733882,61.2,70.2
+KEN,Kenya,2022,-0.0886967660532195,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,414.9,6.02803752733882,61.2,70.2
+LSO,Lesotho,2021,0.352227529455515,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,467,6.1463292576689,81.9,86.6
+LSO,Lesotho,2022,0.171613053839494,26-50%,2,5-25%,1,26-50%,2,467,6.1463292576689,81.9,86.6
+LBR,Liberia,2021,-0.0458197524743054,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,689.4,6.53582165408277,76.5,61.1
+LBR,Liberia,2022,-0.0971996586859016,5-25%,1,5-25%,1,5-25%,1,689.4,6.53582165408277,76.5,61.1
+MDG,Madagascar,2021,0.00581764776892949,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,462.1,6.13578131787622,50.6,46.1
+MDG,Madagascar,2022,-0.0544375600118188,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,462.1,6.13578131787622,50.6,46.1
+MWI,Malawi,2022,0.272569535302286,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,259.6,5.55914198482994,50.6,89.8
+MLI,Mali,2021,-0.00828785610348772,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,416,6.03068526026126,43.3,67.3
+MLI,Mali,2022,-0.0679016104001228,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,416,6.03068526026126,43.3,67.3
+MRT,Mauritania,2021,0.0176698771211006,5-25%,1,5-25%,1,Less than 5% (including 0%),0,423.6,6.04878961372725,63,69.3
+MRT,Mauritania,2022,-0.0636964241131244,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,423.6,6.04878961372725,63,69.3
+MUS,Mauritius,2021,0.122720722482179,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,67.15,4.20692892296925,77.7,99.8
+MUS,Mauritius,2022,-0.176595524856358,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,67.15,4.20692892296925,77.7,99.8
+MOZ,Mozambique,2021,0.28877201731098,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,111.4,4.71312732749318,51,73
+MOZ,Mozambique,2022,-0.204188472167258,Increase of 5% or more,0,Increase of 5% or more,0,Increase of 5% or more,0,111.4,4.71312732749318,51,73
+NAM,Namibia,2021,0.544921971041613,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,174.9,5.16421438202456,62.5,91.7
+NAM,Namibia,2022,-0.0279553411371876,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,174.9,5.16421438202456,62.5,91.7
+NER,Niger,2021,0.104671476170983,5-25%,1,Less than 5% (including 0%),0,Less than 5% (including 0%),0,405.7,6.0056139702124,38.5,39.1
+NER,Niger,2022,0.062357208702665,5-25%,1,5-25%,1,5-25%,1,405.7,6.0056139702124,38.5,39.1
+NGA,Nigeria,2022,-0.0844639244416027,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,1091,6.99484998583307,56.8,43.3
+RWA,Rwanda,2021,0.127691572509633,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,261.3,5.56566917252657,43.9,90.7
+RWA,Rwanda,2022,0.0945912105034353,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,261.3,5.56566917252657,43.9,90.7
+STP,Sao Tome and Principe,2021,0.152958513599149,5-25%,1,5-25%,1,5-25%,1,94.78,4.55155841653944,83.6,96.8
+SEN,Senegal,2021,-0.0647597104650106,Less than 5% (including 0%),0,Less than 5% (including 0%),0,5-25%,1,286.3,5.65704021210407,55.5,74.5
+SEN,Senegal,2022,-0.165413107787672,26-50%,2,26-50%,2,5-25%,1,286.3,5.65704021210407,55.5,74.5
+SLE,Sierra Leone,2021,-0.0993415571576288,5-25%,1,5-25%,1,5-25%,1,463.6,6.1390221114656,78.8,86.9
+SSD,South Sudan,2021,-0.470780351782803,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,744.9,6.61324998118223,17.3,19.4
+SSD,South Sudan,2022,-0.524521087299394,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,744.9,6.61324998118223,17.3,19.4
+TGO,Togo,2021,-0.111407291879357,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,416,6.03068526026126,54.8,69.4
+TGO,Togo,2022,-0.199143273054096,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,416,6.03068526026126,54.8,69.4
+UGA,Uganda,2022,-0.0479589690684982,26-50%,2,5-25%,1,5-25%,1,218.7,5.38770092768272,57.6,74.2
+TZA,United Republic of Tanzania,2021,-0.499714205191083,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,291.7,5.67572587687368,62.2,63.5
+ZMB,Zambia,2021,0.615119486253201,5-25%,1,5-25%,1,5-25%,1,102.8,4.63278535302106,63.5,80.4
+ZMB,Zambia,2022,0.28637239091206,5-25%,1,5-25%,1,5-25%,1,102.8,4.63278535302106,63.5,80.4
+ZWE,Zimbabwe,2021,0.370614589064612,5-25%,1,5-25%,1,5-25%,1,387.6,5.95997388001661,71.5,86
+ZWE,Zimbabwe,2022,0.255219542126349,Less than 5% (including 0%),0,Less than 5% (including 0%),0,Less than 5% (including 0%),0,387.6,5.95997388001661,71.5,86

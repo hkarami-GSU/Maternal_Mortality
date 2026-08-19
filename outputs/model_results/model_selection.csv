@@ -1,0 +1,391 @@
+outcome,area,country,region,source_country_name,model_source,source_model_file
+mmr,1,Afghanistan,Eastern Mediterranean,Afghanistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-1-01-01-2019.csv
+mmr,2,Albania,European Region,Albania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-2-01-01-2019.csv
+mmr,3,Algeria,African Region,Algeria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-3-01-01-2019.csv
+mmr,4,Andorra,European Region,Andorra,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-4-01-01-2019.csv
+mmr,5,Angola,African Region,Angola,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-5-01-01-2019.csv
+mmr,6,Antigua and Barbuda,Region of the Americas,Antigua and Barbuda,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-6-01-01-2019.csv
+mmr,7,Argentina,Region of the Americas,Argentina,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-7-01-01-2019.csv
+mmr,8,Armenia,European Region,Armenia,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-8-01-01-2019.csv
+mmr,9,Australia,Western Pacific Region,Australia,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-9-01-01-2019.csv
+mmr,10,Austria,European Region,Austria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-10-01-01-2019.csv
+mmr,11,Azerbaijan,European Region,Azerbaijan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-11-01-01-2019.csv
+mmr,12,Bahamas,Region of the Americas,Bahamas,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-12-01-01-2019.csv
+mmr,13,Bahrain,Eastern Mediterranean,Bahrain,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-13-01-01-2019.csv
+mmr,14,Bangladesh,Southeast Asia Region,Bangladesh,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-14-01-01-2019.csv
+mmr,15,Barbados,Region of the Americas,Barbados,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-15-01-01-2019.csv
+mmr,16,Belarus,European Region,Belarus,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-16-01-01-2019.csv
+mmr,17,Belgium,European Region,Belgium,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-17-01-01-2019.csv
+mmr,18,Belize,Region of the Americas,Belize,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-18-01-01-2019.csv
+mmr,19,Benin,African Region,Benin,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-19-01-01-2019.csv
+mmr,20,Bhutan,Southeast Asia Region,Bhutan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-20-01-01-2019.csv
+mmr,21,Bolivia,Region of the Americas,Bolivia (Plurinational State of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-21-01-01-2019.csv
+mmr,22,Bosnia,European Region,Bosnia and Herzegovina,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-22-01-01-2019.csv
+mmr,23,Botswana,African Region,Botswana,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-23-01-01-2019.csv
+mmr,24,Brazil,Region of the Americas,Brazil,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-24-01-01-2019.csv
+mmr,25,Brunei Darussalam,Western Pacific Region,Brunei Darussalam,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-25-01-01-2019.csv
+mmr,26,Bulgaria,European Region,Bulgaria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-26-01-01-2019.csv
+mmr,27,Burkina Faso,African Region,Burkina Faso,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-27-01-01-2019.csv
+mmr,28,Burundi,African Region,Burundi,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-28-01-01-2019.csv
+mmr,29,Cabo Verde,African Region,Cabo Verde,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-29-01-01-2019.csv
+mmr,30,Cambodia,Western Pacific Region,Cambodia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-30-01-01-2019.csv
+mmr,31,Cameroon,African Region,Cameroon,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-31-01-01-2019.csv
+mmr,32,Canada,Region of the Americas,Canada,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-32-01-01-2019.csv
+mmr,33,Central African Republic,African Region,Central African Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-33-01-01-2019.csv
+mmr,34,Chad,African Region,Chad,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-34-01-01-2019.csv
+mmr,35,Chile,Region of the Americas,Chile,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-35-01-01-2019.csv
+mmr,36,China,Western Pacific Region,China,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-36-01-01-2019.csv
+mmr,37,Colombia,Region of the Americas,Colombia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-37-01-01-2019.csv
+mmr,38,Comoros,African Region,Comoros,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-38-01-01-2019.csv
+mmr,39,Congo,African Region,Congo,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-39-01-01-2019.csv
+mmr,40,Cook Islands,Western Pacific Region,Cook Islands,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-40-01-01-2019.csv
+mmr,41,Costa Rica,Region of the Americas,Costa Rica,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-41-01-01-2019.csv
+mmr,42,Cote d'Ivoire,African Region,Cote d'Ivoire,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-42-01-01-2019.csv
+mmr,43,Croatia,European Region,Croatia,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-43-01-01-2019.csv
+mmr,44,Cuba,Region of the Americas,Cuba,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-44-01-01-2019.csv
+mmr,45,Cyprus,European Region,Cyprus,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-45-01-01-2019.csv
+mmr,46,Czechia,European Region,Czechia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-46-01-01-2019.csv
+mmr,47,North Korea,Southeast Asia Region,Democratic People's Republic of Korea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-47-01-01-2019.csv
+mmr,48,DR Congo,African Region,Democratic Republic of the Congo,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-48-01-01-2019.csv
+mmr,49,Denmark,European Region,Denmark,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-49-01-01-2019.csv
+mmr,50,Djibouti,Eastern Mediterranean,Djibouti,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-50-01-01-2019.csv
+mmr,51,Dominica,Region of the Americas,Dominica,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-51-01-01-2019.csv
+mmr,52,Dominican Republic,Region of the Americas,Dominican Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-52-01-01-2019.csv
+mmr,53,Ecuador,Region of the Americas,Ecuador,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-53-01-01-2019.csv
+mmr,54,Egypt,Eastern Mediterranean,Egypt,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-54-01-01-2019.csv
+mmr,55,El Salvador,Region of the Americas,El Salvador,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-55-01-01-2019.csv
+mmr,56,Equatorial Guinea,African Region,Equatorial Guinea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-56-01-01-2019.csv
+mmr,57,Eritrea,African Region,Eritrea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-57-01-01-2019.csv
+mmr,58,Estonia,European Region,Estonia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-58-01-01-2019.csv
+mmr,59,Eswatini,African Region,Eswatini,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-59-01-01-2019.csv
+mmr,60,Ethiopia,African Region,Ethiopia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-60-01-01-2019.csv
+mmr,61,Fiji,Western Pacific Region,Fiji,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-61-01-01-2019.csv
+mmr,62,Finland,European Region,Finland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-62-01-01-2019.csv
+mmr,63,France,European Region,France,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-63-01-01-2019.csv
+mmr,64,Gabon,African Region,Gabon,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-64-01-01-2019.csv
+mmr,65,Gambia,African Region,Gambia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-65-01-01-2019.csv
+mmr,66,Georgia,European Region,Georgia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-66-01-01-2019.csv
+mmr,67,Germany,European Region,Germany,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-67-01-01-2019.csv
+mmr,68,Ghana,African Region,Ghana,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-68-01-01-2019.csv
+mmr,69,Greece,European Region,Greece,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-69-01-01-2019.csv
+mmr,70,Grenada,Region of the Americas,Grenada,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-70-01-01-2019.csv
+mmr,71,Guatemala,Region of the Americas,Guatemala,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-71-01-01-2019.csv
+mmr,72,Guinea,African Region,Guinea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-72-01-01-2019.csv
+mmr,73,Guinea-Bissau,African Region,Guinea-Bissau,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-73-01-01-2019.csv
+mmr,74,Guyana,Region of the Americas,Guyana,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-74-01-01-2019.csv
+mmr,75,Haiti,Region of the Americas,Haiti,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-75-01-01-2019.csv
+mmr,76,Honduras,Region of the Americas,Honduras,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-76-01-01-2019.csv
+mmr,77,Hungary,European Region,Hungary,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-77-01-01-2019.csv
+mmr,78,Iceland,European Region,Iceland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-78-01-01-2019.csv
+mmr,79,India,Southeast Asia Region,India,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-79-01-01-2019.csv
+mmr,80,Indonesia,Southeast Asia Region,Indonesia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-80-01-01-2019.csv
+mmr,81,Iran,Eastern Mediterranean,Iran (Islamic Republic of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-81-01-01-2019.csv
+mmr,82,Iraq,Eastern Mediterranean,Iraq,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-82-01-01-2019.csv
+mmr,83,Ireland,European Region,Ireland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-83-01-01-2019.csv
+mmr,84,Israel,European Region,Israel,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-84-01-01-2019.csv
+mmr,85,Italy,European Region,Italy,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-85-01-01-2019.csv
+mmr,86,Jamaica,Region of the Americas,Jamaica,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-86-01-01-2019.csv
+mmr,87,Japan,Western Pacific Region,Japan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-87-01-01-2019.csv
+mmr,88,Jordan,Eastern Mediterranean,Jordan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-88-01-01-2019.csv
+mmr,89,Kazakhstan,European Region,Kazakhstan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-89-01-01-2019.csv
+mmr,90,Kenya,African Region,Kenya,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-90-01-01-2019.csv
+mmr,91,Kiribati,Western Pacific Region,Kiribati,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-91-01-01-2019.csv
+mmr,92,Kuwait,Eastern Mediterranean,Kuwait,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-92-01-01-2019.csv
+mmr,93,Kyrgyzstan,European Region,Kyrgyzstan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-93-01-01-2019.csv
+mmr,94,Laos,Western Pacific Region,Lao People's Democratic Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-94-01-01-2019.csv
+mmr,95,Latvia,European Region,Latvia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-95-01-01-2019.csv
+mmr,96,Lebanon,Eastern Mediterranean,Lebanon,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-96-01-01-2019.csv
+mmr,97,Lesotho,African Region,Lesotho,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-97-01-01-2019.csv
+mmr,98,Liberia,African Region,Liberia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-98-01-01-2019.csv
+mmr,99,Libya,Eastern Mediterranean,Libya,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-99-01-01-2019.csv
+mmr,100,Lithuania,European Region,Lithuania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-100-01-01-2019.csv
+mmr,101,Luxembourg,European Region,Luxembourg,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-101-01-01-2019.csv
+mmr,102,Madagascar,African Region,Madagascar,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-102-01-01-2019.csv
+mmr,103,Malawi,African Region,Malawi,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-103-01-01-2019.csv
+mmr,104,Malaysia,Western Pacific Region,Malaysia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-104-01-01-2019.csv
+mmr,105,Maldives,Southeast Asia Region,Maldives,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-105-01-01-2019.csv
+mmr,106,Mali,African Region,Mali,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-106-01-01-2019.csv
+mmr,107,Malta,European Region,Malta,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-107-01-01-2019.csv
+mmr,108,Marshall Islands,Western Pacific Region,Marshall Islands,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-108-01-01-2019.csv
+mmr,109,Mauritania,African Region,Mauritania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-109-01-01-2019.csv
+mmr,110,Mauritius,African Region,Mauritius,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-110-01-01-2019.csv
+mmr,111,Mexico,Region of the Americas,Mexico,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-111-01-01-2019.csv
+mmr,112,Micronesia,Western Pacific Region,Micronesia (Federated States of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-112-01-01-2019.csv
+mmr,113,Monaco,European Region,Monaco,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-113-01-01-2019.csv
+mmr,114,Mongolia,Western Pacific Region,Mongolia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-114-01-01-2019.csv
+mmr,115,Montenegro,European Region,Montenegro,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-115-01-01-2019.csv
+mmr,116,Morocco,Eastern Mediterranean,Morocco,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-116-01-01-2019.csv
+mmr,117,Mozambique,African Region,Mozambique,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-117-01-01-2019.csv
+mmr,118,Myanmar,Southeast Asia Region,Myanmar,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-118-01-01-2019.csv
+mmr,119,Namibia,African Region,Namibia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-119-01-01-2019.csv
+mmr,120,Nauru,Western Pacific Region,Nauru,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-120-01-01-2019.csv
+mmr,121,Nepal,Southeast Asia Region,Nepal,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-121-01-01-2019.csv
+mmr,122,Netherlands,European Region,Netherlands (Kingdom of the),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-122-01-01-2019.csv
+mmr,123,New Zealand,Western Pacific Region,New Zealand,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-123-01-01-2019.csv
+mmr,124,Nicaragua,Region of the Americas,Nicaragua,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-124-01-01-2019.csv
+mmr,125,Niger,African Region,Niger,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-125-01-01-2019.csv
+mmr,126,Nigeria,African Region,Nigeria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-126-01-01-2019.csv
+mmr,127,North Macedonia,European Region,North Macedonia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-127-01-01-2019.csv
+mmr,128,Norway,European Region,Norway,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-128-01-01-2019.csv
+mmr,129,Oman,Eastern Mediterranean,Oman,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-129-01-01-2019.csv
+mmr,130,Pakistan,Eastern Mediterranean,Pakistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-130-01-01-2019.csv
+mmr,131,Palau,Western Pacific Region,Palau,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-131-01-01-2019.csv
+mmr,132,Panama,Region of the Americas,Panama,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-132-01-01-2019.csv
+mmr,133,Papua New Guinea,Western Pacific Region,Papua New Guinea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-133-01-01-2019.csv
+mmr,134,Paraguay,Region of the Americas,Paraguay,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-134-01-01-2019.csv
+mmr,135,Peru,Region of the Americas,Peru,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-135-01-01-2019.csv
+mmr,136,Philippines,Western Pacific Region,Philippines,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-136-01-01-2019.csv
+mmr,137,Poland,European Region,Poland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-137-01-01-2019.csv
+mmr,138,Portugal,European Region,Portugal,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-138-01-01-2019.csv
+mmr,139,Puerto Rico,Region of the Americas,Puerto Rico,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-139-01-01-2019.csv
+mmr,140,Qatar,Eastern Mediterranean,Qatar,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-140-01-01-2019.csv
+mmr,141,Republic of Korea,Western Pacific Region,Republic of Korea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-141-01-01-2019.csv
+mmr,142,Republic of Moldova,European Region,Republic of Moldova,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-142-01-01-2019.csv
+mmr,143,Romania,European Region,Romania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-143-01-01-2019.csv
+mmr,144,Russian Federation,European Region,Russian Federation,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-144-01-01-2019.csv
+mmr,145,Rwanda,African Region,Rwanda,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-145-01-01-2019.csv
+mmr,146,Saint Kitts and Nevis,Region of the Americas,Saint Kitts and Nevis,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-146-01-01-2019.csv
+mmr,147,Saint Lucia,Region of the Americas,Saint Lucia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-147-01-01-2019.csv
+mmr,148,Saint Vincent,Region of the Americas,Saint Vincent and the Grenadines,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-148-01-01-2019.csv
+mmr,149,Samoa,Western Pacific Region,Samoa,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-149-01-01-2019.csv
+mmr,150,San Marino,European Region,San Marino,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-150-01-01-2019.csv
+mmr,151,Sao Tome and Principe,African Region,Sao Tome and Principe,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-151-01-01-2019.csv
+mmr,152,Saudi Arabia,Eastern Mediterranean,Saudi Arabia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-152-01-01-2019.csv
+mmr,153,Senegal,African Region,Senegal,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-153-01-01-2019.csv
+mmr,154,Serbia,European Region,Serbia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-154-01-01-2019.csv
+mmr,155,Seychelles,African Region,Seychelles,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-155-01-01-2019.csv
+mmr,156,Sierra Leone,African Region,Sierra Leone,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-156-01-01-2019.csv
+mmr,157,Singapore,Western Pacific Region,Singapore,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-157-01-01-2019.csv
+mmr,158,Slovakia,European Region,Slovakia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-158-01-01-2019.csv
+mmr,159,Slovenia,European Region,Slovenia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-159-01-01-2019.csv
+mmr,160,Solomon Islands,Western Pacific Region,Solomon Islands,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-160-01-01-2019.csv
+mmr,161,Somalia,Eastern Mediterranean,Somalia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-161-01-01-2019.csv
+mmr,162,South Africa,African Region,South Africa,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-162-01-01-2019.csv
+mmr,163,South Sudan,African Region,South Sudan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-163-01-01-2019.csv
+mmr,164,Spain,European Region,Spain,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-164-01-01-2019.csv
+mmr,165,Sri Lanka,Southeast Asia Region,Sri Lanka,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-165-01-01-2019.csv
+mmr,166,Sudan,Eastern Mediterranean,Sudan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-166-01-01-2019.csv
+mmr,167,Suriname,Region of the Americas,Suriname,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-167-01-01-2019.csv
+mmr,168,Sweden,European Region,Sweden,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-168-01-01-2019.csv
+mmr,169,Switzerland,European Region,Switzerland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-169-01-01-2019.csv
+mmr,170,Syria,Eastern Mediterranean,Syrian Arab Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-170-01-01-2019.csv
+mmr,171,Tajikistan,European Region,Tajikistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-171-01-01-2019.csv
+mmr,172,Thailand,Southeast Asia Region,Thailand,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-172-01-01-2019.csv
+mmr,173,Timor-Leste,Southeast Asia Region,Timor-Leste,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-173-01-01-2019.csv
+mmr,174,Togo,African Region,Togo,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-174-01-01-2019.csv
+mmr,175,Tonga,Western Pacific Region,Tonga,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-175-01-01-2019.csv
+mmr,176,Trinidad and Tobago,Region of the Americas,Trinidad and Tobago,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-176-01-01-2019.csv
+mmr,177,Tunisia,Eastern Mediterranean,Tunisia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-177-01-01-2019.csv
+mmr,178,Turkmenistan,European Region,Turkmenistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-178-01-01-2019.csv
+mmr,179,Tuvalu,Western Pacific Region,Tuvalu,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-179-01-01-2019.csv
+mmr,180,Turkey,European Region,TÃ¼rkiye,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-180-01-01-2019.csv
+mmr,181,Uganda,African Region,Uganda,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-181-01-01-2019.csv
+mmr,182,Ukraine,European Region,Ukraine,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-182-01-01-2019.csv
+mmr,183,United Arab Emirates,Eastern Mediterranean,United Arab Emirates,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-mmr-deaths-world-area-183-01-01-2019.csv
+mmr,184,United Kingdom,European Region,United Kingdom of Great Britain and Northern Ireland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-184-01-01-2019.csv
+mmr,185,Tanzania,African Region,United Republic of Tanzania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-185-01-01-2019.csv
+mmr,186,USA,Region of the Americas,United States of America,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-186-01-01-2019.csv
+mmr,187,Uruguay,Region of the Americas,Uruguay,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-187-01-01-2019.csv
+mmr,188,Uzbekistan,European Region,Uzbekistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-188-01-01-2019.csv
+mmr,189,Vanuatu,Western Pacific Region,Vanuatu,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-189-01-01-2019.csv
+mmr,190,Venezuela,Region of the Americas,Venezuela (Bolivarian Republic of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-190-01-01-2019.csv
+mmr,191,Viet Nam,Western Pacific Region,Viet Nam,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-191-01-01-2019.csv
+mmr,192,Yemen,Eastern Mediterranean,Yemen,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-192-01-01-2019.csv
+mmr,193,Zambia,African Region,Zambia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-193-01-01-2019.csv
+mmr,194,Zimbabwe,African Region,Zimbabwe,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-194-01-01-2019.csv
+mmr,195,Palestine,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-mmr-deaths-world-area-195-01-01-2019.csv
+maternal_deaths,1,Afghanistan,Eastern Mediterranean,Afghanistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-1-01-01-2019.csv
+maternal_deaths,2,Albania,European Region,Albania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-2-01-01-2019.csv
+maternal_deaths,3,Algeria,African Region,Algeria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-3-01-01-2019.csv
+maternal_deaths,4,Andorra,European Region,Andorra,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-4-01-01-2019.csv
+maternal_deaths,5,Angola,African Region,Angola,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-5-01-01-2019.csv
+maternal_deaths,6,Antigua and Barbuda,Region of the Americas,Antigua and Barbuda,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-6-01-01-2019.csv
+maternal_deaths,7,Argentina,Region of the Americas,Argentina,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-7-01-01-2019.csv
+maternal_deaths,8,Armenia,European Region,Armenia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-8-01-01-2019.csv
+maternal_deaths,9,Australia,Western Pacific Region,Australia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-9-01-01-2019.csv
+maternal_deaths,10,Austria,European Region,Austria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-10-01-01-2019.csv
+maternal_deaths,11,Azerbaijan,European Region,Azerbaijan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-11-01-01-2019.csv
+maternal_deaths,12,Bahamas,Region of the Americas,Bahamas,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-12-01-01-2019.csv
+maternal_deaths,13,Bahrain,Eastern Mediterranean,Bahrain,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-13-01-01-2019.csv
+maternal_deaths,14,Bangladesh,Southeast Asia Region,Bangladesh,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-14-01-01-2019.csv
+maternal_deaths,15,Barbados,Region of the Americas,Barbados,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-15-01-01-2019.csv
+maternal_deaths,16,Belarus,European Region,Belarus,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-16-01-01-2019.csv
+maternal_deaths,17,Belgium,European Region,Belgium,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-17-01-01-2019.csv
+maternal_deaths,18,Belize,Region of the Americas,Belize,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-18-01-01-2019.csv
+maternal_deaths,19,Benin,African Region,Benin,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-19-01-01-2019.csv
+maternal_deaths,20,Bhutan,Southeast Asia Region,Bhutan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-20-01-01-2019.csv
+maternal_deaths,21,Bolivia,Region of the Americas,Bolivia (Plurinational State of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-21-01-01-2019.csv
+maternal_deaths,22,Bosnia,European Region,Bosnia and Herzegovina,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-22-01-01-2019.csv
+maternal_deaths,23,Botswana,African Region,Botswana,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-23-01-01-2019.csv
+maternal_deaths,24,Brazil,Region of the Americas,Brazil,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-24-01-01-2019.csv
+maternal_deaths,25,Brunei Darussalam,Western Pacific Region,Brunei Darussalam,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-25-01-01-2019.csv
+maternal_deaths,26,Bulgaria,European Region,Bulgaria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-26-01-01-2019.csv
+maternal_deaths,27,Burkina Faso,African Region,Burkina Faso,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-27-01-01-2019.csv
+maternal_deaths,28,Burundi,African Region,Burundi,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-28-01-01-2019.csv
+maternal_deaths,29,Cabo Verde,African Region,Cabo Verde,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-29-01-01-2019.csv
+maternal_deaths,30,Cambodia,Western Pacific Region,Cambodia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-30-01-01-2019.csv
+maternal_deaths,31,Cameroon,African Region,Cameroon,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-31-01-01-2019.csv
+maternal_deaths,32,Canada,Region of the Americas,Canada,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-32-01-01-2019.csv
+maternal_deaths,33,Central African Republic,African Region,Central African Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-33-01-01-2019.csv
+maternal_deaths,34,Chad,African Region,Chad,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-34-01-01-2019.csv
+maternal_deaths,35,Chile,Region of the Americas,Chile,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-35-01-01-2019.csv
+maternal_deaths,36,China,Western Pacific Region,China,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-36-01-01-2019.csv
+maternal_deaths,37,Colombia,Region of the Americas,Colombia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-37-01-01-2019.csv
+maternal_deaths,38,Comoros,African Region,Comoros,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-38-01-01-2019.csv
+maternal_deaths,39,Congo,African Region,Congo,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-39-01-01-2019.csv
+maternal_deaths,40,Cook Islands,Western Pacific Region,Cook Islands,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-40-01-01-2019.csv
+maternal_deaths,41,Costa Rica,Region of the Americas,Costa Rica,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-41-01-01-2019.csv
+maternal_deaths,42,Cote d'Ivoire,African Region,Cote d'Ivoire,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-42-01-01-2019.csv
+maternal_deaths,43,Croatia,European Region,Croatia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-43-01-01-2019.csv
+maternal_deaths,44,Cuba,Region of the Americas,Cuba,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-44-01-01-2019.csv
+maternal_deaths,45,Cyprus,European Region,Cyprus,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-45-01-01-2019.csv
+maternal_deaths,46,Czechia,European Region,Czechia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-46-01-01-2019.csv
+maternal_deaths,47,North Korea,Southeast Asia Region,Democratic People's Republic of Korea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-47-01-01-2019.csv
+maternal_deaths,48,DR Congo,African Region,Democratic Republic of the Congo,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-48-01-01-2019.csv
+maternal_deaths,49,Denmark,European Region,Denmark,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-49-01-01-2019.csv
+maternal_deaths,50,Djibouti,Eastern Mediterranean,Djibouti,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-50-01-01-2019.csv
+maternal_deaths,51,Dominica,Region of the Americas,Dominica,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-51-01-01-2019.csv
+maternal_deaths,52,Dominican Republic,Region of the Americas,Dominican Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-52-01-01-2019.csv
+maternal_deaths,53,Ecuador,Region of the Americas,Ecuador,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-53-01-01-2019.csv
+maternal_deaths,54,Egypt,Eastern Mediterranean,Egypt,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-54-01-01-2019.csv
+maternal_deaths,55,El Salvador,Region of the Americas,El Salvador,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-55-01-01-2019.csv
+maternal_deaths,56,Equatorial Guinea,African Region,Equatorial Guinea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-56-01-01-2019.csv
+maternal_deaths,57,Eritrea,African Region,Eritrea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-57-01-01-2019.csv
+maternal_deaths,58,Estonia,European Region,Estonia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-58-01-01-2019.csv
+maternal_deaths,59,Eswatini,African Region,Eswatini,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-59-01-01-2019.csv
+maternal_deaths,60,Ethiopia,African Region,Ethiopia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-60-01-01-2019.csv
+maternal_deaths,61,Fiji,Western Pacific Region,Fiji,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-61-01-01-2019.csv
+maternal_deaths,62,Finland,European Region,Finland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-62-01-01-2019.csv
+maternal_deaths,63,France,European Region,France,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-63-01-01-2019.csv
+maternal_deaths,64,Gabon,African Region,Gabon,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-64-01-01-2019.csv
+maternal_deaths,65,Gambia,African Region,Gambia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-65-01-01-2019.csv
+maternal_deaths,66,Georgia,European Region,Georgia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-66-01-01-2019.csv
+maternal_deaths,67,Germany,European Region,Germany,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-67-01-01-2019.csv
+maternal_deaths,68,Ghana,African Region,Ghana,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-68-01-01-2019.csv
+maternal_deaths,69,Greece,European Region,Greece,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-69-01-01-2019.csv
+maternal_deaths,70,Grenada,Region of the Americas,Grenada,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-70-01-01-2019.csv
+maternal_deaths,71,Guatemala,Region of the Americas,Guatemala,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-71-01-01-2019.csv
+maternal_deaths,72,Guinea,African Region,Guinea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-72-01-01-2019.csv
+maternal_deaths,73,Guinea-Bissau,African Region,Guinea-Bissau,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-73-01-01-2019.csv
+maternal_deaths,74,Guyana,Region of the Americas,Guyana,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-74-01-01-2019.csv
+maternal_deaths,75,Haiti,Region of the Americas,Haiti,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-75-01-01-2019.csv
+maternal_deaths,76,Honduras,Region of the Americas,Honduras,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-76-01-01-2019.csv
+maternal_deaths,77,Hungary,European Region,Hungary,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-77-01-01-2019.csv
+maternal_deaths,78,Iceland,European Region,Iceland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-78-01-01-2019.csv
+maternal_deaths,79,India,Southeast Asia Region,India,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-79-01-01-2019.csv
+maternal_deaths,80,Indonesia,Southeast Asia Region,Indonesia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-80-01-01-2019.csv
+maternal_deaths,81,Iran,Eastern Mediterranean,Iran (Islamic Republic of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-81-01-01-2019.csv
+maternal_deaths,82,Iraq,Eastern Mediterranean,Iraq,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-82-01-01-2019.csv
+maternal_deaths,83,Ireland,European Region,Ireland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-83-01-01-2019.csv
+maternal_deaths,84,Israel,European Region,Israel,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-84-01-01-2019.csv
+maternal_deaths,85,Italy,European Region,Italy,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-85-01-01-2019.csv
+maternal_deaths,86,Jamaica,Region of the Americas,Jamaica,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-86-01-01-2019.csv
+maternal_deaths,87,Japan,Western Pacific Region,Japan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-87-01-01-2019.csv
+maternal_deaths,88,Jordan,Eastern Mediterranean,Jordan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-88-01-01-2019.csv
+maternal_deaths,89,Kazakhstan,European Region,Kazakhstan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-89-01-01-2019.csv
+maternal_deaths,90,Kenya,African Region,Kenya,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-90-01-01-2019.csv
+maternal_deaths,91,Kiribati,Western Pacific Region,Kiribati,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-91-01-01-2019.csv
+maternal_deaths,92,Kuwait,Eastern Mediterranean,Kuwait,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-92-01-01-2019.csv
+maternal_deaths,93,Kyrgyzstan,European Region,Kyrgyzstan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-93-01-01-2019.csv
+maternal_deaths,94,Laos,Western Pacific Region,Lao People's Democratic Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-94-01-01-2019.csv
+maternal_deaths,95,Latvia,European Region,Latvia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-95-01-01-2019.csv
+maternal_deaths,96,Lebanon,Eastern Mediterranean,Lebanon,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-96-01-01-2019.csv
+maternal_deaths,97,Lesotho,African Region,Lesotho,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-97-01-01-2019.csv
+maternal_deaths,98,Liberia,African Region,Liberia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-98-01-01-2019.csv
+maternal_deaths,99,Libya,Eastern Mediterranean,Libya,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-99-01-01-2019.csv
+maternal_deaths,100,Lithuania,European Region,Lithuania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-100-01-01-2019.csv
+maternal_deaths,101,Luxembourg,European Region,Luxembourg,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-101-01-01-2019.csv
+maternal_deaths,102,Madagascar,African Region,Madagascar,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-102-01-01-2019.csv
+maternal_deaths,103,Malawi,African Region,Malawi,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-103-01-01-2019.csv
+maternal_deaths,104,Malaysia,Western Pacific Region,Malaysia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-104-01-01-2019.csv
+maternal_deaths,105,Maldives,Southeast Asia Region,Maldives,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-105-01-01-2019.csv
+maternal_deaths,106,Mali,African Region,Mali,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-106-01-01-2019.csv
+maternal_deaths,107,Malta,European Region,Malta,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-107-01-01-2019.csv
+maternal_deaths,108,Marshall Islands,Western Pacific Region,Marshall Islands,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-108-01-01-2019.csv
+maternal_deaths,109,Mauritania,African Region,Mauritania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-109-01-01-2019.csv
+maternal_deaths,110,Mauritius,African Region,Mauritius,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-110-01-01-2019.csv
+maternal_deaths,111,Mexico,Region of the Americas,Mexico,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-111-01-01-2019.csv
+maternal_deaths,112,Micronesia,Western Pacific Region,Micronesia (Federated States of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-112-01-01-2019.csv
+maternal_deaths,113,Monaco,European Region,Monaco,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-113-01-01-2019.csv
+maternal_deaths,114,Mongolia,Western Pacific Region,Mongolia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-114-01-01-2019.csv
+maternal_deaths,115,Montenegro,European Region,Montenegro,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-115-01-01-2019.csv
+maternal_deaths,116,Morocco,Eastern Mediterranean,Morocco,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-116-01-01-2019.csv
+maternal_deaths,117,Mozambique,African Region,Mozambique,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-117-01-01-2019.csv
+maternal_deaths,118,Myanmar,Southeast Asia Region,Myanmar,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-118-01-01-2019.csv
+maternal_deaths,119,Namibia,African Region,Namibia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-119-01-01-2019.csv
+maternal_deaths,120,Nauru,Western Pacific Region,Nauru,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-120-01-01-2019.csv
+maternal_deaths,121,Nepal,Southeast Asia Region,Nepal,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-121-01-01-2019.csv
+maternal_deaths,122,Netherlands,European Region,Netherlands (Kingdom of the),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-122-01-01-2019.csv
+maternal_deaths,123,New Zealand,Western Pacific Region,New Zealand,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-123-01-01-2019.csv
+maternal_deaths,124,Nicaragua,Region of the Americas,Nicaragua,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-124-01-01-2019.csv
+maternal_deaths,125,Niger,African Region,Niger,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-125-01-01-2019.csv
+maternal_deaths,126,Nigeria,African Region,Nigeria,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-126-01-01-2019.csv
+maternal_deaths,127,North Macedonia,European Region,North Macedonia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-127-01-01-2019.csv
+maternal_deaths,128,Norway,European Region,Norway,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-128-01-01-2019.csv
+maternal_deaths,129,Oman,Eastern Mediterranean,Oman,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-129-01-01-2019.csv
+maternal_deaths,130,Pakistan,Eastern Mediterranean,Pakistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-130-01-01-2019.csv
+maternal_deaths,131,Palau,Western Pacific Region,Palau,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-131-01-01-2019.csv
+maternal_deaths,132,Panama,Region of the Americas,Panama,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-132-01-01-2019.csv
+maternal_deaths,133,Papua New Guinea,Western Pacific Region,Papua New Guinea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-133-01-01-2019.csv
+maternal_deaths,134,Paraguay,Region of the Americas,Paraguay,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-134-01-01-2019.csv
+maternal_deaths,135,Peru,Region of the Americas,Peru,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-135-01-01-2019.csv
+maternal_deaths,136,Philippines,Western Pacific Region,Philippines,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-136-01-01-2019.csv
+maternal_deaths,137,Poland,European Region,Poland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-137-01-01-2019.csv
+maternal_deaths,138,Portugal,European Region,Portugal,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-138-01-01-2019.csv
+maternal_deaths,139,Puerto Rico,Region of the Americas,Puerto Rico,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-139-01-01-2019.csv
+maternal_deaths,140,Qatar,Eastern Mediterranean,Qatar,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-140-01-01-2019.csv
+maternal_deaths,141,Republic of Korea,Western Pacific Region,Republic of Korea,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-141-01-01-2019.csv
+maternal_deaths,142,Republic of Moldova,European Region,Republic of Moldova,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-142-01-01-2019.csv
+maternal_deaths,143,Romania,European Region,Romania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-143-01-01-2019.csv
+maternal_deaths,144,Russian Federation,European Region,Russian Federation,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-144-01-01-2019.csv
+maternal_deaths,145,Rwanda,African Region,Rwanda,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-145-01-01-2019.csv
+maternal_deaths,146,Saint Kitts and Nevis,Region of the Americas,Saint Kitts and Nevis,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-146-01-01-2019.csv
+maternal_deaths,147,Saint Lucia,Region of the Americas,Saint Lucia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-147-01-01-2019.csv
+maternal_deaths,148,Saint Vincent,Region of the Americas,Saint Vincent and the Grenadines,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-148-01-01-2019.csv
+maternal_deaths,149,Samoa,Western Pacific Region,Samoa,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-149-01-01-2019.csv
+maternal_deaths,150,San Marino,European Region,San Marino,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-150-01-01-2019.csv
+maternal_deaths,151,Sao Tome and Principe,African Region,Sao Tome and Principe,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-151-01-01-2019.csv
+maternal_deaths,152,Saudi Arabia,Eastern Mediterranean,Saudi Arabia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-152-01-01-2019.csv
+maternal_deaths,153,Senegal,African Region,Senegal,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-153-01-01-2019.csv
+maternal_deaths,154,Serbia,European Region,Serbia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-154-01-01-2019.csv
+maternal_deaths,155,Seychelles,African Region,Seychelles,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-155-01-01-2019.csv
+maternal_deaths,156,Sierra Leone,African Region,Sierra Leone,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-156-01-01-2019.csv
+maternal_deaths,157,Singapore,Western Pacific Region,Singapore,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-157-01-01-2019.csv
+maternal_deaths,158,Slovakia,European Region,Slovakia,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-158-01-01-2019.csv
+maternal_deaths,159,Slovenia,European Region,Slovenia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-159-01-01-2019.csv
+maternal_deaths,160,Solomon Islands,Western Pacific Region,Solomon Islands,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-160-01-01-2019.csv
+maternal_deaths,161,Somalia,Eastern Mediterranean,Somalia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-161-01-01-2019.csv
+maternal_deaths,162,South Africa,African Region,South Africa,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-162-01-01-2019.csv
+maternal_deaths,163,South Sudan,African Region,South Sudan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-163-01-01-2019.csv
+maternal_deaths,164,Spain,European Region,Spain,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-164-01-01-2019.csv
+maternal_deaths,165,Sri Lanka,Southeast Asia Region,Sri Lanka,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-165-01-01-2019.csv
+maternal_deaths,166,Sudan,Eastern Mediterranean,Sudan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-166-01-01-2019.csv
+maternal_deaths,167,Suriname,Region of the Americas,Suriname,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-167-01-01-2019.csv
+maternal_deaths,168,Sweden,European Region,Sweden,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-168-01-01-2019.csv
+maternal_deaths,169,Switzerland,European Region,Switzerland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-169-01-01-2019.csv
+maternal_deaths,170,Syria,Eastern Mediterranean,Syrian Arab Republic,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-170-01-01-2019.csv
+maternal_deaths,171,Tajikistan,European Region,Tajikistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-171-01-01-2019.csv
+maternal_deaths,172,Thailand,Southeast Asia Region,Thailand,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-172-01-01-2019.csv
+maternal_deaths,173,Timor-Leste,Southeast Asia Region,Timor-Leste,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-173-01-01-2019.csv
+maternal_deaths,174,Togo,African Region,Togo,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-174-01-01-2019.csv
+maternal_deaths,175,Tonga,Western Pacific Region,Tonga,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-175-01-01-2019.csv
+maternal_deaths,176,Trinidad and Tobago,Region of the Americas,Trinidad and Tobago,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-176-01-01-2019.csv
+maternal_deaths,177,Tunisia,Eastern Mediterranean,Tunisia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-177-01-01-2019.csv
+maternal_deaths,178,Turkmenistan,European Region,Turkmenistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-178-01-01-2019.csv
+maternal_deaths,179,Tuvalu,Western Pacific Region,Tuvalu,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-179-01-01-2019.csv
+maternal_deaths,180,Turkey,European Region,Türkiye,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-180-01-01-2019.csv
+maternal_deaths,181,Uganda,African Region,Uganda,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-181-01-01-2019.csv
+maternal_deaths,182,Ukraine,European Region,Ukraine,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-182-01-01-2019.csv
+maternal_deaths,183,United Arab Emirates,Eastern Mediterranean,United Arab Emirates,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-183-01-01-2019.csv
+maternal_deaths,184,United Kingdom,European Region,United Kingdom of Great Britain and Northern Ireland,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-184-01-01-2019.csv
+maternal_deaths,185,Tanzania,African Region,United Republic of Tanzania,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-185-01-01-2019.csv
+maternal_deaths,186,USA,Region of the Americas,United States of America,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-186-01-01-2019.csv
+maternal_deaths,187,Uruguay,Region of the Americas,Uruguay,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-187-01-01-2019.csv
+maternal_deaths,188,Uzbekistan,European Region,Uzbekistan,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-188-01-01-2019.csv
+maternal_deaths,189,Vanuatu,Western Pacific Region,Vanuatu,ranked_top1_fallback,ranked(1)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-yearly-maternal-deaths-world-area-189-01-01-2019.csv
+maternal_deaths,190,Venezuela,Region of the Americas,Venezuela (Bolivarian Republic of),ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-190-01-01-2019.csv
+maternal_deaths,191,Viet Nam,Western Pacific Region,Viet Nam,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-191-01-01-2019.csv
+maternal_deaths,192,Yemen,Eastern Mediterranean,Yemen,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-192-01-01-2019.csv
+maternal_deaths,193,Zambia,African Region,Zambia,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-193-01-01-2019.csv
+maternal_deaths,194,Zimbabwe,African Region,Zimbabwe,ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-194-01-01-2019.csv
+maternal_deaths,195,Palestine,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",ensemble_top4,Ensemble(4)-onsetfixed-0-flag1-1-method-0-dist-0-horizon-4-weighttype-0-yearly-maternal-deaths-world-area-195-01-01-2019.csv
